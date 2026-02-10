@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Korg Krome Oriental Tuner",
+  "description": "Professional web-based SysEx controller for Korg Krome EX, allowing real-time oriental scale tuning (quarter tones), transposition, and ribbon pitch control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
